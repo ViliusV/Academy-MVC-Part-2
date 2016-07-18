@@ -1,0 +1,74 @@
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\csc.exe
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\vbc.exe
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\DemoApplication.dll.config
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\DemoApplication.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\DemoApplication.pdb
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Helpers.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Mvc.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Razor.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Webpages.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Razor.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Webpages.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Helpers.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\System.Web.Mvc.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\obj\Debug\DemoApplication.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\obj\Debug\DemoApplication.pdb
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\EntityFramework.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\EntityFramework.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\DemoApplication\DemoApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\csc.exe
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\vbc.exe
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\DemoApplication.dll.config
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\DemoApplication.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\DemoApplication.pdb
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\EntityFramework.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Helpers.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Mvc.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Razor.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Webpages.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\EntityFramework.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Razor.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Webpages.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Helpers.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\bin\System.Web.Mvc.xml
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\obj\Debug\DemoApplication.dll
+C:\Users\vvaicekauskas\Dropbox\1ClickFactory\1CF academy\Academy 2016\ASP.NET MVC\ASP.NET MVC - DemoApplication 2\DemoApplication\obj\Debug\DemoApplication.pdb

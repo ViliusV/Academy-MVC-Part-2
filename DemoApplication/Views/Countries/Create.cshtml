@@ -1,0 +1,29 @@
+﻿@model DemoApplication.Models.CountryViewModel
+
+@{
+	Layout = null;
+}
+
+@using (Html.BeginForm())
+{
+	@Html.AntiForgeryToken()
+
+	<div>
+		@Html.LabelFor(x => x.Title)
+		@Html.TextBoxFor(x => x.Title)
+	</div>
+
+	<div>
+		@Html.LabelFor(x => x.Capital)
+		@Html.TextBoxFor(x => x.Capital)
+	</div>
+
+	<div>
+		@Html.LabelFor(x => x.Population)
+		@Html.TextBoxFor(x => x.Population)
+	</div>
+
+	<div>
+		<button type="submit">Submit</button>
+	</div>
+}

@@ -1,0 +1,18 @@
+﻿@model DemoApplication.Models.LoginViewModel
+
+@using (Html.BeginForm())
+{
+	<div>
+		@Html.LabelFor(x => x.UserName)
+		@Html.TextBoxFor(x => x.UserName)
+	</div>
+
+	<div>
+		@Html.LabelFor(x => x.Password)
+		@Html.PasswordFor(x => x.Password)
+	</div>
+
+	<div>
+		<button type="submit">Login</button>
+	</div>
+}
